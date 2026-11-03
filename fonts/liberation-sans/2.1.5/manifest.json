@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "family": "Liberation Sans",
+  "familyKey": "liberation-sans",
+  "version": "2.1.5",
+  "format": "static-truetype",
+  "license": {
+    "name": "SIL Open Font License 1.1",
+    "file": "LICENSE",
+    "url": "https://scripts.sil.org/OFL"
+  },
+  "authorsFile": "AUTHORS",
+  "source": {
+    "project": "Liberation Fonts",
+    "releaseUrl": "https://github.com/liberationfonts/liberation-fonts/releases/tag/2.1.5",
+    "archiveUrl": "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz",
+    "archiveSha256": "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0"
+  },
+  "coverage": {
+    "ascii": true,
+    "vietnamese": true
+  },
+  "faces": {
+    "regular": {
+      "file": "LiberationSans-Regular.ttf",
+      "weight": 400,
+      "style": "normal",
+      "bytes": 410712,
+      "sha256": "76d04c18ea243f426b7de1f3ad208e927008f961dc5945e5aad352d0dfde8ee8"
+    },
+    "italic": {
+      "file": "LiberationSans-Italic.ttf",
+      "weight": 400,
+      "style": "italic",
+      "bytes": 415816,
+      "sha256": "e5bae5c4cde31f22142753855f4f8fb86da6ff39955ed3c0a11248b0d16948b0"
+    },
+    "bold": {
+      "file": "LiberationSans-Bold.ttf",
+      "weight": 700,
+      "style": "normal",
+      "bytes": 414456,
+      "sha256": "788abee4c806d660e8aee46689dd8540cd4bb98da03dcc9d171ce3efd99a9173"
+    },
+    "bolditalic": {
+      "file": "LiberationSans-BoldItalic.ttf",
+      "weight": 700,
+      "style": "italic",
+      "bytes": 408996,
+      "sha256": "698da70fc191cc5f33ad4d6d3fe830fe4624b898ea2e3169955928b7c491f1ee"
+    }
+  }
+}

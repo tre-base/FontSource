@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "family": "Iosevka",
+  "familyKey": "iosevka",
+  "version": "34.9.1",
+  "format": "static-truetype",
+  "license": {
+    "name": "SIL Open Font License 1.1",
+    "file": "LICENSE.md",
+    "url": "https://scripts.sil.org/OFL"
+  },
+  "authorsFile": "AUTHORS",
+  "source": {
+    "project": "Iosevka",
+    "releaseUrl": "https://github.com/be5invis/Iosevka/releases/tag/v34.9.1",
+    "archiveUrl": "https://github.com/be5invis/Iosevka/releases/download/v34.9.1/PkgTTF-Iosevka-34.9.1.zip",
+    "archiveSha256": "7a77a3dfa0e2d713a8920a30624863e23df2867a1f55a5e3d6d23dad07c14c65"
+  },
+  "coverage": {
+    "ascii": true,
+    "vietnamese": true,
+    "notes": "Official default monospace Iosevka package; this entry includes the Normal width Regular/Bold/Italic/Bold Italic faces only."
+  },
+  "faces": {
+    "regular": {
+      "file": "Iosevka-Regular.ttf",
+      "weight": 400,
+      "style": "normal",
+      "bytes": 11613712,
+      "sha256": "1ba24b81d82df65a68c9d0bb44bda306fdcdb5d7763afe89b0dea29ea827d1a2"
+    },
+    "italic": {
+      "file": "Iosevka-Italic.ttf",
+      "weight": 400,
+      "style": "italic",
+      "bytes": 12162044,
+      "sha256": "8bb76fdd0bda08193781e9f1703e4021d3afca6b48a3e7bbb61b699efe989115"
+    },
+    "bold": {
+      "file": "Iosevka-Bold.ttf",
+      "weight": 700,
+      "style": "normal",
+      "bytes": 11679068,
+      "sha256": "1988973571c96725d240c97bd2131b5deecdedfc537ffd30e11aff6ec0286488"
+    },
+    "bolditalic": {
+      "file": "Iosevka-BoldItalic.ttf",
+      "weight": 700,
+      "style": "italic",
+      "bytes": 12228616,
+      "sha256": "13579582b40296b7b79200c3d419d99de2c8b1ef051ec92c9fbc1df841991bec"
+    }
+  }
+}

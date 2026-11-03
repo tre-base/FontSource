@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "family": "Sarasa Gothic CL",
+  "familyKey": "sarasa-gothic-cl",
+  "version": "1.0.43",
+  "format": "static-truetype",
+  "license": {
+    "name": "SIL Open Font License 1.1",
+    "file": "LICENSE",
+    "url": "https://scripts.sil.org/OFL"
+  },
+  "authorsFile": "AUTHORS",
+  "source": {
+    "project": "Sarasa Gothic",
+    "releaseUrl": "https://github.com/be5invis/Sarasa-Gothic/releases/tag/v1.0.43",
+    "archiveUrl": "https://github.com/be5invis/Sarasa-Gothic/releases/download/v1.0.43/SarasaGothicCL-TTF-Unhinted-1.0.43.7z",
+    "archiveSha256": "ac3b2886ef76e072dadf2a71f1fc12e9ffa0e52b7acff2005f2686e7e8562bf7",
+    "mirrorUrl": "https://mirror.nju.edu.cn/github-release/be5invis/Sarasa-Gothic/Sarasa%20Gothic%2C%20Version%201.0.43/SarasaGothicCL-TTF-Unhinted-1.0.43.7z"
+  },
+  "variant": {
+    "family": "Gothic",
+    "orthography": "CL",
+    "description": "Classical orthography; the package includes Latin/Greek/Cyrillic plus CJK glyphs."
+  },
+  "coverage": {
+    "ascii": true,
+    "vietnamese": true
+  },
+  "faces": {
+    "regular": {
+      "file": "SarasaGothicCL-Regular.ttf",
+      "weight": 400,
+      "style": "normal",
+      "bytes": 13054272,
+      "sha256": "8aa8ee372c1e81948387019b0a23b21f24ed0917dbd7dc019950447320d5fcb3"
+    },
+    "italic": {
+      "file": "SarasaGothicCL-Italic.ttf",
+      "weight": 400,
+      "style": "italic",
+      "bytes": 13840900,
+      "sha256": "858ae5cf9d53059f064e1cace9f6c3473536bf3d9b71c574d65104a3b8d38169"
+    },
+    "bold": {
+      "file": "SarasaGothicCL-Bold.ttf",
+      "weight": 700,
+      "style": "normal",
+      "bytes": 12882644,
+      "sha256": "83f3ffb573b10615ceddcfc63118e55edb3a1df625d9aaac49c88305d3b9f416"
+    },
+    "bolditalic": {
+      "file": "SarasaGothicCL-BoldItalic.ttf",
+      "weight": 700,
+      "style": "italic",
+      "bytes": 13670556,
+      "sha256": "5a5872fa2fc004622dc7eb0ab34784aae1cfc017aa995fb99c340ab27d7413b5"
+    }
+  }
+}

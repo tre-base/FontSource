@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "family": "Hack",
+  "familyKey": "hack",
+  "version": "3.003",
+  "format": "static-truetype",
+  "license": {
+    "name": "MIT and Bitstream Vera License",
+    "file": "LICENSE.md",
+    "url": "https://github.com/source-foundry/Hack/blob/v3.003/LICENSE.md"
+  },
+  "authorsFile": "AUTHORS",
+  "source": {
+    "project": "Hack",
+    "releaseUrl": "https://github.com/source-foundry/Hack/releases/tag/v3.003",
+    "archiveUrl": "https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-ttf.zip",
+    "archiveSha256": "0c2604631b1f055041c68a0e09ae4801acab6c5072ba2db6a822f53c3f8290ac"
+  },
+  "coverage": {
+    "ascii": true,
+    "vietnamese": false,
+    "notes": "Hack Regular v3.003 lacks U+1EAC/U+1EAD, U+1EB6/U+1EB7, U+1EC6/U+1EC7 and U+1ED8/U+1ED9; use only when the requested text does not require those glyphs."
+  },
+  "faces": {
+    "regular": {
+      "file": "Hack-Regular.ttf",
+      "weight": 400,
+      "style": "normal",
+      "bytes": 309408,
+      "sha256": "15f55cc0c85a2988d2b4b3a8cdb5d77fdfbaf319e1bb5309d725db9818fb7125"
+    },
+    "italic": {
+      "file": "Hack-Italic.ttf",
+      "weight": 400,
+      "style": "italic",
+      "bytes": 316156,
+      "sha256": "096fb67a2b85f3c866e9cb3e965b27c2c10b977315f4d3d7f095674be35091c1"
+    },
+    "bold": {
+      "file": "Hack-Bold.ttf",
+      "weight": 700,
+      "style": "normal",
+      "bytes": 317628,
+      "sha256": "5bbf531eff7f8a0c2559c9a0656718e2828a012a9b1f60b5f54006d59a4de8d4"
+    },
+    "bolditalic": {
+      "file": "Hack-BoldItalic.ttf",
+      "weight": 700,
+      "style": "italic",
+      "bytes": 322288,
+      "sha256": "64f74a079700b7dfe128551a1e28875d5ba980971e55f5e0f0596e37bdc6a6bc"
+    }
+  }
+}

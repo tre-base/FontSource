@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "repository": "https://github.com/tre-base/FontSource",
+  "families": [
+    {
+      "family": "Hack",
+      "familyKey": "hack",
+      "versions": [
+        {
+          "version": "3.003",
+          "manifest": "fonts/hack/3.003/manifest.json"
+        }
+      ]
+    },
+    {
+      "family": "Iosevka",
+      "familyKey": "iosevka",
+      "versions": [
+        {
+          "version": "34.9.1",
+          "manifest": "fonts/iosevka/34.9.1/manifest.json"
+        }
+      ]
+    },
+    {
+      "family": "Liberation Mono",
+      "familyKey": "liberation-mono",
+      "versions": [
+        {
+          "version": "2.1.5",
+          "manifest": "fonts/liberation-mono/2.1.5/manifest.json"
+        }
+      ]
+    },
+    {
+      "family": "Liberation Sans",
+      "familyKey": "liberation-sans",
+      "versions": [
+        {
+          "version": "2.1.5",
+          "manifest": "fonts/liberation-sans/2.1.5/manifest.json"
+        }
+      ]
+    },
+    {
+      "family": "Liberation Serif",
+      "familyKey": "liberation-serif",
+      "versions": [
+        {
+          "version": "2.1.5",
+          "manifest": "fonts/liberation-serif/2.1.5/manifest.json"
+        }
+      ]
+    },
+    {
+      "family": "Sarasa Gothic CL",
+      "familyKey": "sarasa-gothic-cl",
+      "versions": [
+        {
+          "version": "1.0.43",
+          "manifest": "fonts/sarasa-gothic-cl/1.0.43/manifest.json"
+        }
+      ]
+    }
+  ]
+}
